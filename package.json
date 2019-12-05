@@ -1,0 +1,25 @@
+{
+  "name": "cuoreupdate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "instagram-scraping": "^1.0.11",
+    "webshot": "^0.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mediaintegrati/cuoreUpdate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mediaintegrati/cuoreUpdate/issues"
+  },
+  "homepage": "https://github.com/mediaintegrati/cuoreUpdate#readme"
+}
