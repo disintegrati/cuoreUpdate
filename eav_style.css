@@ -22,7 +22,8 @@ html, body{
 }
 
 #cuore img{
-    display: inline-block;
+    display: block;
+    object-fit: cover;
     width: 105px;
     height: 105px;
     background: #D00C2E;
