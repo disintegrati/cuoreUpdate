@@ -17,6 +17,7 @@ html, body{
 #cuore{
     height: 100%;
     display: block;
+    top: 60px;
     position: relative;
     object-fit: cover;
 }
@@ -176,14 +177,14 @@ html, body{
 .logo{
     display: block;
     position: absolute;
-    top: 815px;
+    top: 845px;
     left: 105px;
 }
 
 .scritte{
     display: block;
     position: absolute;
-    width: 560px;
-    top: 170px;
-    left: 1196px;
+    width:620px;
+    top: 300px;
+    left: 1176px;
 }
